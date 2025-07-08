@@ -1,0 +1,1 @@
+Slides for "Quantum Search with In-Place Queries", published and presented at TQC 2025 in Bangalore. If this code helps you make your own presentations, please send me an email to let me know! Tell all your friends about manim so more research talks incorporate clear visuals.
