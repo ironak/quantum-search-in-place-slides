@@ -5,3 +5,5 @@ For compiling to pptx: manim-slides convert TitleSlide Complexity QueryComplexit
 RPE version: manim-slides convert TitleSlide Complexity QueryComplexity QueryModels KeyQuestion Comparisons TruckBoat Plan GroverSection StepThruGroverBar GroverBreakdown AlgSection ShiftDemo OurAlg OurBars LBSection FuncErasToXOR OurLB ApplyingAlg FutureWork ThankYou /mnt/c/Users/irona/Downloads/rpe-1.pptx
 
 For compiling to html: manim-slides convert TitleSlide Complexity QueryComplexity QueryModels KeyQuestion Comparisons LeadingCand FuncErasIntro Plan GroverSection StepThruGroverBar GroverBreakdown AlgSection ShiftDemo OurAlg OurBars LBSection FuncErasToXOR OurLB ApplyingAlg FutureWork ThankYou ~/public_html/InPlaceSearch.html --offline
+
+Visa version: manim-slides convert TitleSlide Complexity QueryComplexity QueryModels KeyQuestion Comparisons TruckBoat GroverSection QuantumPrimer StepThruGroverBar GroverBreakdown AlgSection ShiftDemo OurAlg OurBars FutureWork ThankYou /mnt/c/Users/irona/Downloads/visa-in-place.pptx
